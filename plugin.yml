@@ -1,0 +1,12 @@
+name: Achieve
+main: Achieve\Achieve
+version: 1.0.0
+api: 3.0.0-ALPHA10
+
+commands:
+  achieve:
+    description: "Lists your achievements"
+    usage: "/achieve"
+  achievep:
+    description: "Lists a specific players achievements"
+    usage: "/achieve <player>"
